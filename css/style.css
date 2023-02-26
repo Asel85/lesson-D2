@@ -1,0 +1,68 @@
+.conteiner{
+    max-width: 50%;
+    margin: 0 auto;
+    
+}
+.header-logo{
+    display: block;
+    text-align: center;
+}
+.header-text{
+    text-align: center;
+    background-color: bisque;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #177;
+    border-top: 3px solid burlywood;
+    margin-bottom: 70px;
+}
+.header-span{
+    font-weight: 700;
+    text-transform: uppercase;
+}
+h1{
+    max-width: 740px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.img-text{
+    text-align: center;
+    color: grey;
+    font-size: 20px;
+}
+img{
+    border-radius: 20px;
+}
+.featured-title{
+    color: red;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+    
+    
+}
+.featured-link{
+    color: #177;
+    
+}
+.featured{
+    border-left: 2px solid burlywood;
+    padding-left: 15px;
+    margin-bottom: 50px;
+}
+.title{
+    font-size: 30px;
+    font-weight: 200;
+    
+}
+.line{
+    border-bottom: 2px solid #177;
+}
+.method-box{
+    padding-left: 30px;
+}
+.method-span{
+    font-weight: 100;
+}
+.footer-link{
+    color: #177;
+}
